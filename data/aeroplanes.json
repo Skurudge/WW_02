@@ -1,0 +1,37 @@
+[
+    {
+        "icao24": "4b1812",
+        "callsign": "SWR438A",
+        "origin_country": "Switzerland",
+        "velocity": 245.5,
+        "baro_altitude": 11200.0
+    },
+    {
+        "icao24": "3c65a1",
+        "callsign": "DLH12A",
+        "origin_country": "Germany",
+        "velocity": 210.2,
+        "baro_altitude": 9500.5
+    },
+    {
+        "icao24": "a1b2c3",
+        "callsign": "ACA850",
+        "origin_country": "Canada",
+        "velocity": 260.8,
+        "baro_altitude": 12100.0
+    },
+    {
+        "icao24": "424b53",
+        "callsign": "AFL022",
+        "origin_country": "Russia",
+        "velocity": 230.0,
+        "baro_altitude": 10100.0
+    },
+    {
+        "icao24": "556677",
+        "callsign": "BAW31C",
+        "origin_country": "United Kingdom",
+        "velocity": 140.5,
+        "baro_altitude": 3400.0
+    }
+]
